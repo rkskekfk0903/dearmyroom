@@ -1,0 +1,58 @@
+body {font-family: 'Noto Serif KR', serif;}
+
+
+#container {position: relative; width: 100%; overflow: hidden;}
+.section {position: relative; width: 1080px; margin: 80px auto;}
+
+
+/* MAIN BANNER */
+#main {width:100%; height: 400px; overflow: hidden;}
+
+
+/* TOP */
+#top {margin-top:20px; margin-bottom: 20px;}
+#topTitle {position: relative; display: inline-block; }
+#navigation {display: inline-block; float:right;}
+
+.menu {display: inline-block; margin-right: 10px;}
+.menu a {text-decoration: none; color: black;}
+
+
+
+.sectionTitle {text-align: center; margin-bottom: 80px; font-size: 50px;}
+
+#first-left {float: left; width:40%; padding-right: 30px;}
+#first-right {font-size: 20px; }
+
+.clear {clear: both;}
+
+
+#second-left {width:450px; float: left; padding-right: 30px;}
+#second-left p {font-size: 20px; }
+
+#second-right {width:600px; height:600px; float: left; padding-bottom: 80px;}
+#second-right img {width:600px; height:300px;}
+
+
+
+#third-under {font-size: 20px; }
+
+#fourth-right {width:450px; float: right; padding-left: 30px;}
+#fourth-right p {font-size: 20px; }
+
+#fourth-left {width:600px; height:600px; float: left; padding-bottom: 80px;}
+#fourth-left img {width:600px; height:300px;}
+
+
+#footer {text-align: left;}
+#footer-under {text-align: right;}
+
+
+.item {width:360px; float: left; margin-bottom: 10px;}
+.item img {width:100%;}
+
+
+#banner {text-align: center;}
+
+
+.clear {clear: both;}
